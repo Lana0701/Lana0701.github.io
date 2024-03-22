@@ -1,0 +1,43 @@
+h1
+{
+    text-align: center;
+    background-color:FFD9C9;
+    };
+}
+
+h2
+{
+    font-family: Verdana;
+    font-style: italic;
+    color: ;#FFBD77
+}
+
+
+#para_1
+{   font-style: italic;
+    color:#FFB2C1;
+}
+
+#mot_1
+{   font-style:italic;
+    color:#FFB2C1;
+}
+
+
+body 
+    {
+      background-color :FFBD77  ;
+    }
+img {
+  width: 500px;
+  display: block;
+  margin: auto;
+  margin-right: auto;
+    }	
+image{
+  width: 500px;
+  display: block;
+  margin: auto;
+  margin-right: auto;
+     }	
+	

@@ -1,0 +1,145 @@
+body 
+    {
+      background-color : FFBD77;
+    }
+
+
+ h2 
+    {
+        text-align : left;
+    }
+    
+#para_1
+{   font-style: italic;
+    color:000000;
+}
+   
+#para_2
+{  font-style: italic;
+    color:#FFBB56;
+}	
+#img_1 {
+  width: 200px;
+  display: block;
+    }	
+	
+#img_2 {
+  width: 200px;
+  display: block;
+  margin: auto;
+  margin-right: auto;
+    }	
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px dashed;
+    border-color : FF7C85;
+    width : 1000px;
+    height: 250px;
+    background-color : #FFC199;
+    }
+
+    .main div { 
+        height: 220px;
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 10px;
+        border: 2px outset;
+        border-color : FF7C85;
+        
+    }
+
+    /* ordre d'affichage des box*/
+    div.item-rose
+    { 
+      order: 1;
+      width: 200px; 
+      background-color:#FFD9C9;
+    }
+    div.item-pink 
+    { 
+      order: 2;
+      width: 500px; 
+      background-color:FFD9C9;
+
+    }
+
+  #FFBB56
+            
+#img_1 {
+        order:1;
+        width: 200px;
+        border-radius: 20%;
+        margin-left: auto;
+        margin-right: auto;
+     }
+	 
+	 
+#img_3 {
+		position:relative;
+		left:-5px;
+		top:-15px;
+        height:150px;
+        width: 200px;
+        border-radius: 10%;
+        margin-left: auto;
+        margin-right: 21;   
+     }	 
+#img_4 {
+		position:relative;
+		left:45px;
+		top:-5px;
+        height:-150px;
+        width: 200px;
+        border-radius: 10%;
+        margin-left: auto;
+        margin-right: 21;   
+     }
+	 
+
+#img_6 {
+        position:relative;
+		left:360px;
+		top:-100px;
+        height:130px;
+        width: 180px;
+        border-radius: 10%;
+        margin-left: auto;
+        margin-right: 21;   
+     }
+     
+#img_7{
+  width: 500px;
+  display: right;
+  margin: auto;
+  margin-right: auto;
+     }	
+
+#img_9 {
+        position:relative;
+		left:235px;
+		top:-50px;
+        height:130px;
+        width: 180px;
+        border-radius: 10%;
+        margin-left: auto;
+        margin-right: 21;   
+     }
+     
+
+div.item-rose_1
+    { 
+      order: 1;
+      width: 30%; 
+      background-color:#FFD9C9;
+    }
+	
+div.item-pink_2
+    { 
+      order: 4;
+      width: 20%; 
+      background-color:#FFD9C9;
+    }
+	
+
